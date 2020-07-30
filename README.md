@@ -1,5 +1,4 @@
-### Hello, I'm Giulio 👋
-### I create web products
+![Hello I'm Giulio, I make Web products](https://github.com/promocare/promocare/blob/master/github-hero.jpg)
 
 My goal is to create beautiful and functional software that people like to use.
 
